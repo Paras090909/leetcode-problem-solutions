@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0039-combination-sum) |
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
