@@ -19,18 +19,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
