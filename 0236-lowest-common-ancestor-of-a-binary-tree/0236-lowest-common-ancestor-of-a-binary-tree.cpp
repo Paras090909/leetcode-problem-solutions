@@ -10,7 +10,7 @@
 class Solution {
 
 private:
-    int helper(TreeNode*root, TreeNode* p, TreeNode* q, TreeNode* &ans){
+    int helper(TreeNode*root, TreeNode* p, TreeNode* q, TreeNode* &ans ){ // always pass ans as a reference 
         // base case
         if(root == nullptr) return 0;
 
