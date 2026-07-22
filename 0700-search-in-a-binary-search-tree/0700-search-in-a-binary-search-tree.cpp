@@ -35,6 +35,7 @@ public:
     TreeNode* searchBST(TreeNode* root, int val) {
         bool found = false;
         TreeNode* res = nullptr;
+        // better to not use queue for storing 
         //queue<TreeNode*>q;
         helper(root, val,  res, found);
         return res;
