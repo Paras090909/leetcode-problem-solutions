@@ -12,7 +12,7 @@
 class Solution {
 
 private:
-    void helper(TreeNode* root, int val, queue<TreeNode*>&q, TreeNode*&res, bool &found){
+    void helper(TreeNode* root, int val,  TreeNode*&res, bool &found){
         // base case
         if(root == nullptr) return;
         if(root -> val == val){
@@ -21,12 +21,12 @@ private:
         }
 
         if(found){
-            q.push(root);
-            helper(root -> left, val, q, res, found);
-            helper(root->right, val, q, res, found);
+            
+            helper(root -> left, val, res, found);
+            helper(root->right, val,  res, found);
         }else{
-            helper(root -> left, val, q, res, found);
-            helper(root -> right, val, q, res, found);
+            helper(root -> left, val,  res, found);
+            helper(root -> right, val, res, found);
         }
         return ;
     }
@@ -35,8 +35,8 @@ public:
     TreeNode* searchBST(TreeNode* root, int val) {
         bool found = false;
         TreeNode* res = nullptr;
-        queue<TreeNode*>q;
-        helper(root, val, q, res, found);
+        //queue<TreeNode*>q;
+        helper(root, val,  res, found);
         return res;
         
     }
