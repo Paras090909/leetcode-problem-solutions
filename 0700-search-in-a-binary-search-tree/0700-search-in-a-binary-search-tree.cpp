@@ -12,19 +12,18 @@
 class Solution {
 
 private:
-    void helper(TreeNode* root, int val,  TreeNode*&res, bool &found){
+    void helper(TreeNode* root, int val,  TreeNode*&res){
         // base case
         if(root == nullptr) return;
         if(root -> val == val){
-        found = true;
         res = root;
         return;
         }
 
         if(root -> val > val){
-            helper(root -> left, val, res, found);
+            helper(root -> left, val, res);
         }else{
-            helper(root -> right, val, res, found);
+            helper(root -> right, val, res);
         }
         return ;
 
@@ -32,11 +31,8 @@ private:
 
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        bool found = false;
         TreeNode* res = nullptr;
-        // better to not use queue for storing 
-        //queue<TreeNode*>q;
-        helper(root, val,  res, found);
+        helper(root, val,  res);
         return res;
         
     }
