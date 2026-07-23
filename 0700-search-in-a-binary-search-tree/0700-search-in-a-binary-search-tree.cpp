@@ -18,17 +18,16 @@ private:
         if(root -> val == val){
         found = true;
         res = root;
+        return;
         }
 
-        if(found){
-            
+        if(root -> val > val){
             helper(root -> left, val, res, found);
-            helper(root->right, val,  res, found);
         }else{
-            helper(root -> left, val,  res, found);
             helper(root -> right, val, res, found);
         }
         return ;
+
     }
 
 public:
