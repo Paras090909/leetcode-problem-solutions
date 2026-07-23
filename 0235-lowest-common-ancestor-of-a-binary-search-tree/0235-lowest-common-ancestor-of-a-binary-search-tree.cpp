@@ -11,27 +11,32 @@
 class Solution {
 
 private:
-    int helper(TreeNode* root, TreeNode* p, TreeNode* q, TreeNode * &ans){
+    void solve(TreeNode* root, TreeNode* p, TreeNode* q, TreeNode* &res){
         // base case
-        if(root == nullptr) return 0;
-        int left = helper(root -> left, p, q, ans);
-        int right = helper(root -> right, p, q, ans);
-        int self = 0;
+        if(root == nullptr) return ;
         if(root == p || root == q){
-            self = 1;
+            res = root;
+            return;
         }
-        int total = left + self + right;
-        
-        if(total == 2 && ans == nullptr){
-            ans = root;
+
+        if(root -> val > q -> val){
+            solve(root ->left, p, q, res);
+        }else if(root -> val < p -> val ){
+            solve(root -> right, p, q, res);
+        }else{
+            res = root;
+            return ;
         }
-        return total;
     }
 
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* ans = nullptr;
-        helper(root, p, q, ans);
-        return ans;
+        TreeNode* res = nullptr;
+        if(p-> val < q -> val){
+            solve(root, p, q, res);
+        }else{
+            solve(root, q, p, res);
+        }
+        return res;
     }
 };
