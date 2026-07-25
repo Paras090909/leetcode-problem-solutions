@@ -14,9 +14,9 @@ class Solution {
 
 public:
     bool findTarget(TreeNode* root, int k) {
-        if(!root) return false;
+        if(root == nullptr) return false;
         int rem = k - root -> val;
-        if(st.count(rem)){ // element exists
+        if(st.count(rem)){ // element exists count fn gives either 1 or 0 as a result
             return true;
         }
         st.insert(root -> val);
