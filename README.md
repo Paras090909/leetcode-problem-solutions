@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0039-combination-sum) |
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
