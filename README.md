@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
@@ -122,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
