@@ -1,33 +1,4 @@
 class Solution {
-
-// void solve(string s,vector<int>freq, string &res, int n){
-//     bool insertAtLast = 0;
-//     int left = 0, right = res.size()-1;
-//     for(int i = 0; i < 26; i++){
-//         int charFreq = freq[i];
-//         if(charFreq == 1){
-//             res[n/2] = char(i + 'a');
-//         }
-//         else{ 
-//         while(charFreq--){
-//             if(insertAtLast){
-//                 if(res[right] == '\0'){
-//                 res[right] = char(i + 'a');
-//                 right--;
-//                 }  
-//                 insertAtLast = 1 - insertAtLast;
-//             }else{
-//                 if(res[right] == '\0'){
-//                 res[left] = char(i+'a');
-//                 left++;
-//                 }
-//                 insertAtLast = 1 - insertAtLast;
-//             }
-//         }
-//         }
-//     }
-// }
-
 void solve(vector<int>& freq, string &res){
     int idx = 0;
 
