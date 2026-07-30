@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
 |  |
 | ------- |
