@@ -16,7 +16,7 @@ private:
         if(root == nullptr) return;
         currSum+=root->val;
         if((root -> left == nullptr) && (root -> right == nullptr)){        // indicating leaf node
-            if((currSum == targetSum)&&(result == false) ){
+            if(currSum == targetSum){
                 result = true;
                 return;
             }
