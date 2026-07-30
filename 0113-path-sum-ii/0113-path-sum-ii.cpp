@@ -17,8 +17,10 @@ private:
         currSum+=root->val;
         tmp.push_back(root->val);
 
-        if(!root->left && !root->right && currSum == targetSum){
-            result.push_back(tmp);
+        if((root -> left == nullptr) && (root -> right == nullptr)){ // denotes leaft node
+            if(currSum == targetSum){
+                result.push_back(tmp);
+            }
         }
         
         solve(root->left, targetSum,  currSum, result, tmp);
