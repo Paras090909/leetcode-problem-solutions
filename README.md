@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
