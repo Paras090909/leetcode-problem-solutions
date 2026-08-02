@@ -23,7 +23,6 @@ private:
 
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        //int res = 0;
         int res = 0;
         solve(root, res);
         return res;
