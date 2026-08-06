@@ -9,7 +9,6 @@ public:
             int lastDigit = num%10;
             if(result > INT_MAX/10 || result < INT_MIN/10) return 0;
             result = result*10+lastDigit;
-           
             num/=10;
         }
         return result;
