@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
