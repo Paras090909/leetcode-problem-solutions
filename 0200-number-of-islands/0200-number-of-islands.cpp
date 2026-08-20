@@ -11,7 +11,7 @@ private:
 
     void DFS( int i, int j, int m, int n, vector<vector<char>>& grid, vector<vector<bool>>&vis, int x[4], int y[4])
     {
-        vis[i][j] = '1';
+        vis[i][j] = true;
         for(int k = 0; k < 4; k++){
             int i_dir = i + x[k];
             int j_dir = j + y[k];
