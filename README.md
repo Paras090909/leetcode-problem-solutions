@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3731-find-missing-elements](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
