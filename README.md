@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0200-number-of-islands) |
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0994-rotting-oranges) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0275-h-index-ii) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0994-rotting-oranges) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Stack
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -258,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -282,5 +289,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
