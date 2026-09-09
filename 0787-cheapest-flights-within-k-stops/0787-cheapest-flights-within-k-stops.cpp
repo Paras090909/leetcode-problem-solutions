@@ -4,7 +4,7 @@ public:
         vector<int>res(n, 1e8);
         res[src] = 0;
         for(int i = 0; i <= k; i++){
-            vector<int>tmp = res;
+            vector<int>tmp = res; // tmp array so that chain reaction doesn't start 
             for(int j = 0; j < flights.size(); j++){
                 int s = flights[j][0];
                 int d = flights[j][1];
