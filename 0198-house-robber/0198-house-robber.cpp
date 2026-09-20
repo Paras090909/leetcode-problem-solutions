@@ -4,11 +4,11 @@ private:
     int solve(vector<int>&nums, int n, int i,int choice,  vector<vector<int>>&dp){
         // base case
         if(i == n) return 0;
-        if(dp[i][choice] != -1) return dp[i][choice];
-        if(choice == 0) return dp[i][choice] = solve(nums, n, i+1, 1, dp);
+        if(dp[i][choice] != -1) return dp[i][choice]; // memoization
+        if(choice == 0) return dp[i][choice] = solve(nums, n, i+1, 1, dp); // if we have already robbed previous house then we have to skip this
 
-        int c1 = nums[i] + solve(nums, n, i+1, 0, dp);
-        int c2 = solve(nums, n, i+1, 1, dp);
+        int c1 = nums[i] + solve(nums, n, i+1, 0, dp); // we want to rob this house -> include this in our answer
+        int c2 = solve(nums, n, i+1, 1, dp); // we want to skip this house and thats why our choice is still 1 
         return max(c1,c2);
     }
 
