@@ -7,7 +7,7 @@ public:
         for(int i = 0; i < n; i++){
            // ans_array[i] = 1;
             for(int j = 0; j < i; j++){
-                if(nums[j] < nums[i]){
+                if(nums[j] < nums[i] && ans_array[i] < ans_array[j]+1){
                     ans_array[i] = max(ans_array[i], ans_array[j]+1);
                 }
             }
