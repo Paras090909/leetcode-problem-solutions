@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0200-number-of-islands) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0778-swim-in-rising-water) |
