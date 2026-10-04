@@ -1,8 +1,11 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-
-        vector<vector<int>> dp(m+1, vector<int>(n+1, -1));
+        vector<vector<int>>dp(m+1);
+        for(int i = 0; i <= m; i++){
+            vector<int>t(n+1, -1);
+            dp[i] = t;
+        }
 
         dp[m-1][n-1] = 1;
 
