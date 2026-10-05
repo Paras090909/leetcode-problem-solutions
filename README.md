@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0856-score-of-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -340,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Paras090909/leetcode-problem-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
